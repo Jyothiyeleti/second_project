@@ -1,1 +1,6 @@
 this is f1 file data
+testing stash third time 
+local data for merge conflict
+testing stash third time 
+creating merge conflict
+
