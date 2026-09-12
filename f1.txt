@@ -5,3 +5,4 @@ testing stash third time
 creating merge conflict
 
 testing git pull
+testing git fetch
